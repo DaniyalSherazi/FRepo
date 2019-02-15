@@ -1,0 +1,19 @@
+{
+  "name": "frepo",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniyalSherazi/FRepo.git"
+  },
+  "author": "Daniyal Sherazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniyalSherazi/FRepo/issues"
+  },
+  "homepage": "https://github.com/DaniyalSherazi/FRepo#readme"
+}
